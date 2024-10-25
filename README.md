@@ -31,10 +31,7 @@ Concentra as ações de busca de processos. Cada ação é organizada em arquivo
 Essa estrutura modular mantém o código limpo e organizado, tornando o desenvolvimento, manutenção e expansão de novas funcionalidades mais ágeis.
 
 
-## ✒️ Autores
+## ✒️ Autor
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
+* **Desenvolvedor** - [José Vitor Rodrigues](https://github.com/ZeVitorR)
 
-* **Um desenvolvedor** - *Trabalho Inicial* - [José Vitor Rodrigues](https://github.com/linkParaPerfil)
-
-⌨️ com ❤️ por [José Vitor Rodrigues](https://gist.github.com/lohhans) 😊
